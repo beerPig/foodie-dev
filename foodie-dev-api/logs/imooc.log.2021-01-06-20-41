@@ -1,0 +1,7 @@
+2021-01-06 20:41:14 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CarouseServiceImpl.queryAll ===========
+2021-01-06 20:41:15 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-06 20:41:15 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-06 20:41:15 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 965 毫秒========
+2021-01-06 20:41:57 INFO  ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-06 20:41:57 INFO  HikariDataSource:350 - DateSourceHikariCP - Shutdown initiated...
+2021-01-06 20:41:57 INFO  HikariDataSource:352 - DateSourceHikariCP - Shutdown completed.

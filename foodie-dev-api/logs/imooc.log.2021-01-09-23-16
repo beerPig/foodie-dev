@@ -1,0 +1,18 @@
+2021-01-09 23:16:00 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 23:16:00 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 6 毫秒========
+2021-01-09 23:16:03 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 23:16:03 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 4 毫秒========
+2021-01-09 23:16:06 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 23:16:06 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 3 毫秒========
+2021-01-09 23:16:09 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 23:16:09 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 5 毫秒========
+2021-01-09 23:16:12 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 23:16:12 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 9 毫秒========
+2021-01-09 23:16:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-09 23:16:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 50 毫秒========
+2021-01-09 23:16:49 INFO  Version:21 - HV000001: Hibernate Validator 6.0.16.Final
+2021-01-09 23:16:50 INFO  Application:50 - Starting Application on DESKTOP-G6F1FDL with PID 78064 (C:\Users\13414\IdeaProjects\foodie-dev\foodie-dev-api\target\classes started by 13414 in C:\Users\13414\IdeaProjects\foodie-dev)
+2021-01-09 23:16:50 INFO  Application:679 - The following profiles are active: dev
+2021-01-09 23:16:56 WARN  ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.imooc]' package. Please check your configuration.
+2021-01-09 23:16:57 INFO  PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7d80915f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-09 23:16:59 INFO  TomcatWebServer:90 - Tomcat initialized with port(s): 8088 (http)

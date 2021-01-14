@@ -1,0 +1,13 @@
+2021-01-11 16:57:06 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.CenterUserServiceImpl.queryUserInfo ===========
+2021-01-11 16:57:06 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 200 毫秒========
+2021-01-11 16:57:18 INFO  CookieUtils:210 - ========== domainName: localhost ==========
+2021-01-11 16:57:19 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat ===========
+2021-01-11 16:57:19 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CarouseServiceImpl.queryAll ===========
+2021-01-11 16:57:20 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 415 毫秒========
+2021-01-11 16:57:20 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 416 毫秒========
+2021-01-11 16:57:20 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy ===========
+2021-01-11 16:57:20 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 46 毫秒========
+2021-01-11 16:57:32 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserForLogin ===========
+2021-01-11 16:57:32 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 27 毫秒========
+2021-01-11 16:57:43 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserForLogin ===========
+2021-01-11 16:57:43 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 18 毫秒========

@@ -1,0 +1,16 @@
+2021-01-11 00:39:14 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2021-01-11 00:39:14 INFO  DispatcherServlet:546 - Completed initialization in 54 ms
+2021-01-11 00:39:15 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.CenterUserServiceImpl.queryUserInfo ===========
+2021-01-11 00:39:15 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-11 00:39:16 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-11 00:39:16 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 1185 毫秒========
+2021-01-11 00:39:21 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.MyOrdersServiceImpl.queryMyOrders ===========
+2021-01-11 00:39:21 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 647 毫秒========
+2021-01-11 00:39:31 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.MyOrdersServiceImpl.queryMyOrders ===========
+2021-01-11 00:39:31 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 53 毫秒========
+2021-01-11 00:39:36 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.MyOrdersServiceImpl.queryMyOrders ===========
+2021-01-11 00:39:36 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 37 毫秒========
+2021-01-11 00:39:37 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.MyOrdersServiceImpl.queryMyOrders ===========
+2021-01-11 00:39:37 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 19 毫秒========
+2021-01-11 00:39:43 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.MyOrdersServiceImpl.queryMyOrders ===========
+2021-01-11 00:39:43 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 32 毫秒========

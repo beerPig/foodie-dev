@@ -1,0 +1,5 @@
+2021-01-06 23:01:08 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2021-01-06 23:01:08 INFO  DispatcherServlet:546 - Completed initialization in 30 ms
+2021-01-06 23:01:25 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList ===========
+2021-01-06 23:01:25 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-06 23:01:25 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.

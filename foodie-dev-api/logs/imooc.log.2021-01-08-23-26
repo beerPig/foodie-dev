@@ -1,0 +1,18 @@
+2021-01-08 23:26:46 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2021-01-08 23:26:47 INFO  DispatcherServlet:546 - Completed initialization in 259 ms
+2021-01-08 23:26:49 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments ===========
+2021-01-08 23:26:49 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryCommentCounts ===========
+2021-01-08 23:26:49 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById ===========
+2021-01-08 23:26:49 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-08 23:26:50 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-08 23:26:51 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 1791 毫秒========
+2021-01-08 23:26:51 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 1799 毫秒========
+2021-01-08 23:26:51 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList ===========
+2021-01-08 23:26:51 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 1813 毫秒========
+2021-01-08 23:26:51 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 55 毫秒========
+2021-01-08 23:26:51 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList ===========
+2021-01-08 23:26:51 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 15 毫秒========
+2021-01-08 23:26:51 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam ===========
+2021-01-08 23:26:51 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 11 毫秒========
+2021-01-08 23:26:58 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemsBySpecIds ===========
+2021-01-08 23:26:58 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 20 毫秒========

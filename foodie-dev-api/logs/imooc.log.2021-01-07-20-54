@@ -1,0 +1,16 @@
+2021-01-07 20:54:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searchItems ===========
+2021-01-07 20:54:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 50 毫秒========
+2021-01-07 20:54:35 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat ===========
+2021-01-07 20:54:35 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CarouseServiceImpl.queryAll ===========
+2021-01-07 20:54:35 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 100 毫秒========
+2021-01-07 20:54:35 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 114 毫秒========
+2021-01-07 20:54:36 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy ===========
+2021-01-07 20:54:36 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 24 毫秒========
+2021-01-07 20:54:37 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList ===========
+2021-01-07 20:54:37 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 30 毫秒========
+2021-01-07 20:54:38 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList ===========
+2021-01-07 20:54:38 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 24 毫秒========
+2021-01-07 20:54:41 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList ===========
+2021-01-07 20:54:41 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 17 毫秒========
+2021-01-07 20:54:44 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searchItems ===========
+2021-01-07 20:54:44 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 65 毫秒========

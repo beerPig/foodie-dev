@@ -1,0 +1,4 @@
+2021-01-07 10:55:55 INFO  Version:21 - HV000001: Hibernate Validator 6.0.16.Final
+2021-01-07 10:55:56 INFO  Application:50 - Starting Application on DESKTOP-G6F1FDL with PID 83808 (C:\Users\13414\IdeaProjects\foodie-dev\foodie-dev-api\target\classes started by 13414 in C:\Users\13414\IdeaProjects\foodie-dev)
+2021-01-07 10:55:56 INFO  Application:679 - The following profiles are active: dev
+2021-01-07 10:55:59 WARN  ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.imooc]' package. Please check your configuration.

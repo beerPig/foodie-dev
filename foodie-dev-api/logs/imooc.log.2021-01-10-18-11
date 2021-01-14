@@ -1,0 +1,5 @@
+2021-01-10 18:11:34 INFO  ThreadPoolTaskScheduler:208 - Shutting down ExecutorService 'taskScheduler'
+2021-01-10 18:11:34 INFO  ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-10 18:11:53 INFO  Version:21 - HV000001: Hibernate Validator 6.0.16.Final
+2021-01-10 18:11:55 INFO  Application:50 - Starting Application on DESKTOP-G6F1FDL with PID 84376 (C:\Users\13414\IdeaProjects\foodie-dev\foodie-dev-api\target\classes started by 13414 in C:\Users\13414\IdeaProjects\foodie-dev)
+2021-01-10 18:11:55 INFO  Application:679 - The following profiles are active: dev

@@ -1,0 +1,11 @@
+2021-01-10 23:28:08 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2021-01-10 23:28:08 INFO  DispatcherServlet:546 - Completed initialization in 61 ms
+2021-01-10 23:28:08 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.CenterUserServiceImpl.queryUserInfo ===========
+2021-01-10 23:28:08 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-10 23:28:09 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-10 23:28:09 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 920 毫秒========
+2021-01-10 23:28:24 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.CenterUserServiceImpl.updateUserFace ===========
+2021-01-10 23:28:24 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 94 毫秒========
+2021-01-10 23:28:24 INFO  CookieUtils:210 - ========== domainName: localhost ==========
+2021-01-10 23:28:29 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.CenterUserServiceImpl.queryUserInfo ===========
+2021-01-10 23:28:29 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 6 毫秒========

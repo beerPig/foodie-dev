@@ -1,0 +1,10 @@
+2021-01-11 17:28:26 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.CenterUserServiceImpl.queryUserInfo ===========
+2021-01-11 17:28:26 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList ===========
+2021-01-11 17:28:26 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList ===========
+2021-01-11 17:28:26 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-11 17:28:27 INFO  ThreadPoolTaskScheduler:208 - Shutting down ExecutorService 'taskScheduler'
+2021-01-11 17:28:27 INFO  ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-11 17:28:28 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-11 17:28:28 WARN  ServiceLogAspect:31 - ======== 执行结束, 耗时: 2581 毫秒========
+2021-01-11 17:28:28 WARN  ServiceLogAspect:31 - ======== 执行结束, 耗时: 2591 毫秒========
+2021-01-11 17:28:28 WARN  ServiceLogAspect:31 - ======== 执行结束, 耗时: 2596 毫秒========

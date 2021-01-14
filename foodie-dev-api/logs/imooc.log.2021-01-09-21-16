@@ -1,0 +1,15 @@
+2021-01-09 21:15:22 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-09 21:16:11 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 31 毫秒========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.createOrder ===========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryUserAddress ===========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 3 毫秒========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecById ===========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 16 毫秒========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById ===========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 12 毫秒========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemMainImgById ===========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 21 毫秒========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.decreaseItemSpecStock ===========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 10 毫秒========
+2021-01-09 21:16:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 122 毫秒========
+2021-01-09 21:16:41 WARN  HikariPool:766 - DateSourceHikariCP - Thread starvation or clock leap detected (housekeeper delta=1m2s491ms920µs600ns).

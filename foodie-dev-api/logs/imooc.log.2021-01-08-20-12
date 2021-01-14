@@ -1,0 +1,8 @@
+2021-01-08 20:12:13 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.updateUserAddressToBeDefault ===========
+2021-01-08 20:12:13 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 18 毫秒========
+2021-01-08 20:12:14 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-08 20:12:14 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 20 毫秒========
+2021-01-08 20:12:15 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.updateUserAddressToBeDefault ===========
+2021-01-08 20:12:15 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 18 毫秒========
+2021-01-08 20:12:15 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-08 20:12:15 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 10 毫秒========

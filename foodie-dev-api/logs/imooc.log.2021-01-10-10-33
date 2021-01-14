@@ -1,0 +1,5 @@
+2021-01-10 10:33:07 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.CenterUserServiceImpl.updateUserInfo ===========
+2021-01-10 10:33:07 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 132 毫秒========
+2021-01-10 10:33:07 INFO  CookieUtils:210 - ========== domainName: localhost ==========
+2021-01-10 10:33:11 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.CenterUserServiceImpl.queryUserInfo ===========
+2021-01-10 10:33:11 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 7 毫秒========

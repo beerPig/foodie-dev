@@ -1,0 +1,8 @@
+2021-01-07 23:22:52 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy ===========
+2021-01-07 23:22:52 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy ===========
+2021-01-07 23:22:53 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 193 毫秒========
+2021-01-07 23:22:53 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 196 毫秒========
+2021-01-07 23:22:57 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy ===========
+2021-01-07 23:22:57 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 18 毫秒========
+2021-01-07 23:22:58 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy ===========
+2021-01-07 23:22:58 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 10 毫秒========

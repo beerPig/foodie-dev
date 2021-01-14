@@ -1,0 +1,4 @@
+2021-01-07 23:24:04 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList ===========
+2021-01-07 23:24:04 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 15 毫秒========
+2021-01-07 23:24:26 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList ===========
+2021-01-07 23:24:26 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 12 毫秒========

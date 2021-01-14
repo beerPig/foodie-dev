@@ -1,0 +1,23 @@
+2021-01-11 00:37:00 WARN  ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.imooc]' package. Please check your configuration.
+2021-01-11 00:37:01 INFO  PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$52283aef] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-11 00:37:03 INFO  TomcatWebServer:90 - Tomcat initialized with port(s): 8088 (http)
+2021-01-11 00:37:04 INFO  ContextLoader:296 - Root WebApplicationContext: initialization completed in 7819 ms
+2021-01-11 00:37:08 WARN  AnnotationConfigServletWebServerApplicationContext:557 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'myOrdersController': Unsatisfied dependency expressed through field 'myOrdersService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.imooc.service.center.MyOrdersService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2021-01-11 00:37:09 ERROR LoggingFailureAnalysisReporter:42 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field myOrdersService in com.imooc.controller.center.MyOrdersController required a bean of type 'com.imooc.service.center.MyOrdersService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.imooc.service.center.MyOrdersService' in your configuration.
+

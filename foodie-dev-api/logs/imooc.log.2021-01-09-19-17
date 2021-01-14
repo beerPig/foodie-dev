@@ -1,0 +1,16 @@
+2021-01-09 19:17:02 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 19:17:02 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 5 毫秒========
+2021-01-09 19:17:05 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 19:17:05 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 10 毫秒========
+2021-01-09 19:17:09 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 19:17:09 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 4 毫秒========
+2021-01-09 19:17:11 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 19:17:11 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 20 毫秒========
+2021-01-09 19:17:14 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 19:17:14 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 5 毫秒========
+2021-01-09 19:17:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 19:17:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 5 毫秒========
+2021-01-09 19:17:20 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo ===========
+2021-01-09 19:17:20 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 5 毫秒========
+2021-01-09 19:17:22 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-09 19:17:22 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 10 毫秒========

@@ -1,0 +1,8 @@
+2021-01-11 10:02:27 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.MyOrdersServiceImpl.queryMyOrders ===========
+2021-01-11 10:02:27 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 193 毫秒========
+2021-01-11 10:02:31 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.MyOrdersServiceImpl.queryMyOrders ===========
+2021-01-11 10:02:31 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 46 毫秒========
+2021-01-11 10:02:34 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.MyOrdersServiceImpl.queryMyOrders ===========
+2021-01-11 10:02:34 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 46 毫秒========
+2021-01-11 10:02:38 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.center.MyOrdersServiceImpl.queryMyOrders ===========
+2021-01-11 10:02:38 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 63 毫秒========

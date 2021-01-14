@@ -1,0 +1,14 @@
+2021-01-09 19:38:01 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-09 19:38:01 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 4 毫秒========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.OrderServiceImpl.createOrder ===========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryUserAddress ===========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 4 毫秒========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecById ===========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 2 毫秒========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById ===========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 2 毫秒========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemMainImgById ===========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 4 毫秒========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.decreaseItemSpecStock ===========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 4 毫秒========
+2021-01-09 19:38:05 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 37 毫秒========

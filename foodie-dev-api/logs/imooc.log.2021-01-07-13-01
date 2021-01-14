@@ -1,0 +1,4 @@
+2021-01-07 13:01:50 ERROR ServiceLogAspect:29 - ======== 执行结束, 耗时: 597175 毫秒========
+2021-01-07 13:01:51 INFO  ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-07 13:01:51 INFO  HikariDataSource:350 - DateSourceHikariCP - Shutdown initiated...
+2021-01-07 13:01:51 INFO  HikariDataSource:352 - DateSourceHikariCP - Shutdown completed.

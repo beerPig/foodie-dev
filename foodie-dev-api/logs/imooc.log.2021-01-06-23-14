@@ -1,0 +1,6 @@
+2021-01-06 23:14:46 INFO  ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-06 23:14:46 INFO  HikariDataSource:350 - DateSourceHikariCP - Shutdown initiated...
+2021-01-06 23:14:46 INFO  HikariDataSource:352 - DateSourceHikariCP - Shutdown completed.
+2021-01-06 23:14:57 INFO  Version:21 - HV000001: Hibernate Validator 6.0.16.Final
+2021-01-06 23:14:58 INFO  Application:50 - Starting Application on DESKTOP-G6F1FDL with PID 58752 (C:\Users\13414\IdeaProjects\foodie-dev\foodie-dev-api\target\classes started by 13414 in C:\Users\13414\IdeaProjects\foodie-dev)
+2021-01-06 23:14:58 INFO  Application:679 - The following profiles are active: dev

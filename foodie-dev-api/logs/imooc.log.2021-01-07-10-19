@@ -1,0 +1,20 @@
+2021-01-07 10:19:02 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2021-01-07 10:19:02 INFO  DispatcherServlet:546 - Completed initialization in 29 ms
+2021-01-07 10:19:28 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById ===========
+2021-01-07 10:19:28 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-07 10:19:28 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-07 10:19:29 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 761 毫秒========
+2021-01-07 10:19:29 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList ===========
+2021-01-07 10:19:29 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 138 毫秒========
+2021-01-07 10:19:29 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList ===========
+2021-01-07 10:19:29 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 24 毫秒========
+2021-01-07 10:19:29 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam ===========
+2021-01-07 10:19:29 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 23 毫秒========
+2021-01-07 10:19:47 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById ===========
+2021-01-07 10:19:47 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 20 毫秒========
+2021-01-07 10:19:47 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList ===========
+2021-01-07 10:19:47 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 10 毫秒========
+2021-01-07 10:19:47 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList ===========
+2021-01-07 10:19:47 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 9 毫秒========
+2021-01-07 10:19:47 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam ===========
+2021-01-07 10:19:47 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 9 毫秒========

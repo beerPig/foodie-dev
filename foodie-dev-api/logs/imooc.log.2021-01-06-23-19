@@ -1,0 +1,10 @@
+2021-01-06 23:19:01 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2021-01-06 23:19:01 INFO  DispatcherServlet:546 - Completed initialization in 31 ms
+2021-01-06 23:19:01 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList ===========
+2021-01-06 23:19:01 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-06 23:19:03 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-06 23:19:03 WARN  ServiceLogAspect:31 - ======== 执行结束, 耗时: 2005 毫秒========
+2021-01-06 23:19:32 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat ===========
+2021-01-06 23:19:32 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CarouseServiceImpl.queryAll ===========
+2021-01-06 23:19:32 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 195 毫秒========
+2021-01-06 23:19:32 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 222 毫秒========

@@ -1,0 +1,7 @@
+2021-01-09 20:37:46 INFO  Version:21 - HV000001: Hibernate Validator 6.0.16.Final
+2021-01-09 20:37:47 INFO  Application:50 - Starting Application on DESKTOP-G6F1FDL with PID 46236 (C:\Users\13414\IdeaProjects\foodie-dev\foodie-dev-api\target\classes started by 13414 in C:\Users\13414\IdeaProjects\foodie-dev)
+2021-01-09 20:37:47 INFO  Application:679 - The following profiles are active: dev
+2021-01-09 20:37:52 WARN  ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.imooc]' package. Please check your configuration.
+2021-01-09 20:37:53 INFO  PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$279bbd62] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-01-09 20:37:55 INFO  TomcatWebServer:90 - Tomcat initialized with port(s): 8088 (http)
+2021-01-09 20:37:56 INFO  ContextLoader:296 - Root WebApplicationContext: initialization completed in 8214 ms

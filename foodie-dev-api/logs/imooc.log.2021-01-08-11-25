@@ -1,0 +1,8 @@
+2021-01-08 11:25:05 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.addNewUserAddress ===========
+2021-01-08 11:25:05 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 61 毫秒========
+2021-01-08 11:25:06 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-08 11:25:06 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 6 毫秒========
+2021-01-08 11:25:58 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.addNewUserAddress ===========
+2021-01-08 11:25:58 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 24 毫秒========
+2021-01-08 11:25:58 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-08 11:25:58 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 19 毫秒========

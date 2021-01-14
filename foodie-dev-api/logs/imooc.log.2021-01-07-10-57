@@ -1,0 +1,8 @@
+2021-01-07 10:57:13 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById ===========
+2021-01-07 10:57:13 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 11 毫秒========
+2021-01-07 10:57:13 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList ===========
+2021-01-07 10:57:13 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 11 毫秒========
+2021-01-07 10:57:13 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList ===========
+2021-01-07 10:57:13 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 14 毫秒========
+2021-01-07 10:57:13 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam ===========
+2021-01-07 10:57:13 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 10 毫秒========

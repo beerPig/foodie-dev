@@ -1,0 +1,2 @@
+2021-01-06 20:32:09 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CarouseServiceImpl.queryAll ===========
+2021-01-06 20:32:09 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 21 毫秒========

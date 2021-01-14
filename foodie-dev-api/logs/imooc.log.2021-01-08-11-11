@@ -1,0 +1,8 @@
+2021-01-08 11:11:05 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.addNewUserAddress ===========
+2021-01-08 11:11:05 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-08 11:11:06 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-08 11:11:06 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 947 毫秒========
+2021-01-08 11:11:06 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-08 11:11:06 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 0 毫秒========
+2021-01-08 11:11:21 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-08 11:11:21 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 0 毫秒========

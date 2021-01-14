@@ -1,0 +1,8 @@
+2021-01-10 20:44:02 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2021-01-10 20:44:02 INFO  DispatcherServlet:546 - Completed initialization in 41 ms
+2021-01-10 20:44:23 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll ===========
+2021-01-10 20:44:23 INFO  HikariDataSource:110 - DateSourceHikariCP - Starting...
+2021-01-10 20:44:24 INFO  HikariDataSource:123 - DateSourceHikariCP - Start completed.
+2021-01-10 20:44:24 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 999 毫秒========
+2021-01-10 20:44:28 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy ===========
+2021-01-10 20:44:46 ERROR ServiceLogAspect:29 - ======== 执行结束, 耗时: 18314 毫秒========

@@ -1,0 +1,2 @@
+2021-01-07 13:38:18 INFO  ServiceLogAspect:17 - ========= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryCommentCounts ===========
+2021-01-07 13:38:18 INFO  ServiceLogAspect:33 - ======== 执行结束, 耗时: 15 毫秒========
